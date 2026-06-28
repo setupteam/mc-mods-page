@@ -14,8 +14,8 @@ function App() {
           <h2 className='subtitle has-text-centered'>Por favor, descargue el launcher y los mods. <br />
             Si ya tiene el launcher pues no lo descargue, bruto.</h2>
           <div className="buttons is-centered">
-            <a className="button"><i className="bi bi-square pr-2"></i> Launcher</a>
-            <a className="button"><i className="bi bi-download pr-2"></i>Mods</a>
+            <a className="button" href="/SKlauncher.jar"><i className="bi bi-square pr-2"></i> Launcher</a>
+            <a className="button" href="/mods.zip"><i className="bi bi-download pr-2"></i>Mods</a>
           </div>
         </div>
       </section>
